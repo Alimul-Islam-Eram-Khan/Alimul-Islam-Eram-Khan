@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alimul-Islam-Eram-Khan.Alumul-Islam-Eram-Khan" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Assalamualaikum+👋🤲;Hello+There!+👋;I'm+Alimul+Islam+Eram+Khan;Full-Stack+Web+Developer+🌐;Data+Analyst+📊;ML+%26+Data+Science+Researcher+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=👋;Hello+There!+👋;I'm+Alimul+Islam+Eram+Khan;Full-Stack+Web+Developer+🌐;Data+Analyst+📊;ML+%26+Data+Science+Researcher+🤖" />
 </h1>
 
 <h2 align="center">🎖️ Welcome to My GitHub Universe 🎖️</h2>
