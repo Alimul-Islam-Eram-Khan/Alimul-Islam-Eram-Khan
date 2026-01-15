@@ -50,25 +50,16 @@ My interests span across **software engineering, analytics, AI research, MLOps, 
 <div align="center">
   <h2>🐍 My Contributions Are Alive 🐍</h2>
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 <hr/>
 
-<div align="center">
-  <h2>🏆 GitHub Trophies 🏆</h2>
 
-  <img src="https://github-trophies.vercel.app/?username=Alimul-Islam-Eram-Khan&theme=darkhub&no-frame=true&row=1" />
-</div>
 
 ---
 
-<h2 align="center"> 📊 GitHub Stats 📊 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimul-Islam-Eram-Khan&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alimul-Islam-Eram-Khan&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
