@@ -14,31 +14,10 @@
 
 <h2 align="center">𝄃𝄃𝄂𝄂𝄀 Profile Overview 𝄁 𝄃𝄂𝄂𝄃</h2>
 
-<p align="center">
-  <strong>
-    Alimul Islam Eram Khan <br/>
-    Full-Stack Developer • Data Analyst • ML/DL & Data Science Researcher
-  </strong>
+<p >
+ I am Alimul Islam Eram Khan, a Computer Science Engineer currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology. With a strong foundation in full-stack web development, data analytics, and machine learning, I am passionate about designing and developing scalable web applications, data-driven dashboards, and intelligent machine learning solutions that address real-world challenges. My academic and professional interests span software engineering, artificial intelligence, MLOps, cloud computing, and statistical modeling, reflecting my commitment to both practical development and research-oriented problem solving. I aim to integrate development, data, and research to build impactful, reliable, and intelligent systems that contribute meaningfully to technology and society.
 </p>
 
-<p align="center">
-I am a passionate <strong>Full-Stack Web Developer</strong> and <strong>Data Analyst</strong> with strong expertise in 
-<strong>Machine Learning, Deep Learning, Data Science</strong>, and <strong>research-driven system design</strong>.
-</p>
-
-<p align="center">
-I enjoy building <strong>scalable web applications</strong>, <strong>data-driven dashboards</strong>, and 
-<strong>intelligent ML-powered solutions</strong> that convert complex problems into impactful real-world technologies.
-</p>
-
-<p align="center">
-My interests span across <strong>Software Engineering</strong>, <strong>Analytics</strong>, <strong>AI Research</strong>, 
-<strong>MLOps</strong>, <strong>Cloud Computing</strong>, and <strong>Statistical Modeling</strong>.
-</p>
-
-<p align="center">
-🚀 My mission is to bridge <strong>Development + Data + Research</strong> to create meaningful innovation.
-</p>
 
 ---
 
