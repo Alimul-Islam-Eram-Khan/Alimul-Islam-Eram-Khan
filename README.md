@@ -1,43 +1,57 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alimul-Islam-Eram-Khan.Alumul-Islam-Eram-Khan" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Assalamualaikum+👋🤲;Hello+There!+👋;I'm+Alimul+Islam+Eram+Khan;Full+Stack+Web+Developer+🌐;Data+Analyst+📊;ML+%26+Data+Science+Researcher+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Assalamualaikum+👋🤲;Hello+There!+👋;I'm+Alimul+Islam+Eram+Khan;Full-Stack+Web+Developer+🌐;Data+Analyst+📊;ML+%26+Data+Science+Researcher+🤖" />
 </h1>
 
-<h2 align="center"> 🎖️ Welcome to My GitHub Profile 🎖️ </h2>
+<h2 align="center">🎖️ Welcome to My GitHub Universe 🎖️</h2>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/GitHubCloud/GitHubCloud/main/helloworld.gif" />
 </h1>
 
-<h2 align="center">
-  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
-  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
-  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
-  <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
-</h2>
+---
+
+<h2 align="center">𝄃𝄃𝄂𝄂𝄀 Profile Overview 𝄁 𝄃𝄂𝄂𝄃</h2>
+
+<p align="center">
+  <strong>
+    Alimul Islam Eram Khan <br/>
+    Full-Stack Developer • Data Analyst • ML/DL & Data Science Researcher
+  </strong>
+</p>
+
+<p align="center">
+I am a passionate <strong>Full-Stack Web Developer</strong> and <strong>Data Analyst</strong> with strong expertise in 
+<strong>Machine Learning, Deep Learning, Data Science</strong>, and <strong>research-driven system design</strong>.
+</p>
+
+<p align="center">
+I enjoy building <strong>scalable web applications</strong>, <strong>data-driven dashboards</strong>, and 
+<strong>intelligent ML-powered solutions</strong> that convert complex problems into impactful real-world technologies.
+</p>
+
+<p align="center">
+My interests span across <strong>Software Engineering</strong>, <strong>Analytics</strong>, <strong>AI Research</strong>, 
+<strong>MLOps</strong>, <strong>Cloud Computing</strong>, and <strong>Statistical Modeling</strong>.
+</p>
+
+<p align="center">
+🚀 My mission is to bridge <strong>Development + Data + Research</strong> to create meaningful innovation.
+</p>
 
 ---
 
-<h2 align="center">😎 WhoAmI ── 𝄃𝄃𝄂𝄂𝄀 𝄁 𝄃𝄂𝄂𝄃</h2>
-
-**`Alimul Islam Eram Khan --> (Full-Stack Developer | Data Analyst | ML/DL & Data Science Researcher)`**
-
-I am a passionate **Full-Stack Web Developer and Data Analyst** with strong expertise in **Machine Learning, Deep Learning, Data Science, and research-oriented systems**.I enjoy building **scalable web applications**, **data-driven dashboards**, and **intelligent ML systems** that transform complex problems into real-world solutions.  
-My interests span across **software engineering, analytics, AI research, MLOps, cloud computing**, and **statistical modeling**. I aim to bridge **development + data + research** to create impactful technologies.
+<h2 align="center">💡 “Turning Code & Data into Intelligence” 💡</h2>
 
 ---
 
-<h2 align="center"> 💡 "Turning Code & Data into Intelligence" 💡 </h2>
-
----
-
-<h2 align="center"> ⚒️ Languages • Frameworks • Tools ⚒️ </h2>
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,python,java,cpp,c,cs,php" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,docker,kubernetes,linux,git,github,vscode,figma" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,django,python,java,cpp,c,cs,php" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,docker,kubernetes,linux,git,github,vscode,figma" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,matlab" />
 </div>
 
@@ -46,16 +60,13 @@ My interests span across **software engineering, analytics, AI research, MLOps, 
 <hr/>
 
 <div align="center">
-  <h2>Practice makes you perfect</h2>
-
+  <h2>🧠 Practice • Consistency • Mastery</h2>
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 <hr/>
 
-
-
-<h2 align="center"> 🙋‍♂️ Connect With Me </h2>
+<h2 align="center">🙋‍♂️ Connect With Me</h2>
 
 <div align="center">
   <a href="mailto:eramkhan.cs.2003@gmail.com">
@@ -71,4 +82,4 @@ My interests span across **software engineering, analytics, AI research, MLOps, 
 
 ---
 
-<h3 align="center"> ✨ “Build • Analyze • Learn • Research • Impact” ✨ </h3>
+<h3 align="center">✨ Build • Analyze • Learn • Research • Impact ✨</h3>
