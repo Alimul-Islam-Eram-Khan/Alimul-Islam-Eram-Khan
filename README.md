@@ -19,13 +19,11 @@
 
 ---
 
-<h2 align="center"> 😎 WhoAmI ---> 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 </h2>
+<h2 align="center">😎 WhoAmI ── 𝄃𝄃𝄂𝄂𝄀 𝄁 𝄃𝄂𝄂𝄃</h2>
 
 **`Alimul Islam Eram Khan --> (Full-Stack Developer | Data Analyst | ML/DL & Data Science Researcher)`**
 
-I am a passionate **Full-Stack Web Developer and Data Analyst** with strong expertise in **Machine Learning, Deep Learning, Data Science, and research-oriented systems**.  
-I enjoy building **scalable web applications**, **data-driven dashboards**, and **intelligent ML systems** that transform complex problems into real-world solutions.  
-
+I am a passionate **Full-Stack Web Developer and Data Analyst** with strong expertise in **Machine Learning, Deep Learning, Data Science, and research-oriented systems**.I enjoy building **scalable web applications**, **data-driven dashboards**, and **intelligent ML systems** that transform complex problems into real-world solutions.  
 My interests span across **software engineering, analytics, AI research, MLOps, cloud computing**, and **statistical modeling**. I aim to bridge **development + data + research** to create impactful technologies.
 
 ---
