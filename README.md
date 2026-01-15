@@ -48,7 +48,7 @@ My interests span across **software engineering, analytics, AI research, MLOps, 
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions Are Alive 🐍</h2>
+  <h2>Practice makes you perfect</h2>
 
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
@@ -56,12 +56,6 @@ My interests span across **software engineering, analytics, AI research, MLOps, 
 <hr/>
 
 
-
----
-
-
-
----
 
 <h2 align="center"> 🙋‍♂️ Connect With Me </h2>
 
